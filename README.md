@@ -8,6 +8,5 @@ You can [**check my MIND MAP**](https://jhlee0637.github.io/) where I organize w
 
 ---
 
-November, 2023
-- I'm focusing on studying Linear Algebra through Khan Academy video lessons in this month.
-- Also plannnig to find other certification programs to prove my knowledge in linear algebra.
+December, 2023
+- I am looking for a research opportunity from Toronto!
