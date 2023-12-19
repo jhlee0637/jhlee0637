@@ -4,7 +4,7 @@ I'm a previous bioinformatics researcher from Seoul, South Korea, and now stayin
 I'm interested in **how to adapt Machine Learning algorithm to Bioinformatics tools** to improve the performance.    
 In addition, I have a passion to learn **scRNA-seq based Multi-omics including transcriptomics, epigenomics, and so on**.    
 
-[I am keep documentizing my studying through published Obsidian page also.](https://publish.obsidian.md/jhlee/today-i-learned/README) I hope you like them!
+[I'm documenting my studies through published Obsidian pages.](https://publish.obsidian.md/jhlee/today-i-learned/README) I hope you like them!
 
 ---
 
