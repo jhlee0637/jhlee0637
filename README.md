@@ -1,12 +1,12 @@
 ### Hi, I am Lee Je-Hee :)
-I'm a previous bioinformatics researcher from Seoul, South Korea, and now staying in Toronto, Canada.    
+- Prospective Ph.D. student(Fall 2025) in Computer Science/Bioinformatics
+- Previous bioinformatics researcher from Seoul, South Korea.
+- Currently Staying in Toronto, Canada.
+- [I'm documenting my studies through published Obsidian pages.](https://publish.obsidian.md/jhlee) I hope you like them!
 
-I'm interested in **how to adapt Machine Learning algorithm to Bioinformatics tools** to improve the performance.    
-In addition, I have a passion to learn **scRNA-seq based Multi-omics including transcriptomics, epigenomics, and so on**.    
-
-[I'm documenting my studies through published Obsidian pages.](https://publish.obsidian.md/jhlee/today-i-learned/README) I hope you like them!
-
----
-
-December, 2023
-- I am looking for a research opportunity from Toronto!
+### Ineterest
+- **"How to adapt Machine Learning algorithm to Bioinformatics tools?"**
+- scRNA-seq data based **Multi-omics** including transcriptomics, proteomics, epigenomics, etc...
+- Metagenomics (I majored in microbiological engineering)
+  - Gut-Brain axis
+  - Archaea and astrobiology
