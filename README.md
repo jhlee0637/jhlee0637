@@ -6,7 +6,10 @@
 
 ### Ineterest
 - **"How to adapt Machine Learning algorithm to Bioinformatics tools?"**
-- scRNA-seq data based **Multi-omics** including transcriptomics, proteomics, epigenomics, etc...
+- **scRNA-seq data based Multi-omics**
+  - **transcriptomics**
+  - **proteomics**
+  - **epigenomics**, etc...
 - Metagenomics (I majored in microbiological engineering)
   - Gut-Brain axis
   - Archaea and astrobiology
