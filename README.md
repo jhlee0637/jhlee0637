@@ -14,5 +14,5 @@
   - Archaea and astrobiology
 
 ### Course Accomplishment
-[DeepLearning.AI: Linear Algebra for Machine Learning and Data Science](https://www.coursera.org/account/accomplishments/verify/66DNLHJKUTBB)
-[DeepLearning.AI: Calculus for Machine Learning and Data Science](https://www.coursera.org/account/accomplishments/verify/H4D7SFYLRR6C)
+- [DeepLearning.AI: Linear Algebra for Machine Learning and Data Science](https://www.coursera.org/account/accomplishments/verify/66DNLHJKUTBB)
+- [DeepLearning.AI: Calculus for Machine Learning and Data Science](https://www.coursera.org/account/accomplishments/verify/H4D7SFYLRR6C)
