@@ -1,5 +1,5 @@
 ### Hi, I am Lee Je-Hee :)
-[RESUME](https://drive.google.com/file/d/103jxclEL33ysWp7b_2CtLaop3vrvNhZG/view?usp=drive_link) | [LinkedIn](www.linkedin.com/in/jehee-lee-202002) | [DailyStudy](https://publish.obsidian.md/jhlee)
+[RESUME](https://drive.google.com/file/d/103jxclEL33ysWp7b_2CtLaop3vrvNhZG/view?usp=drive_link) | [LinkedIn](https://www.linkedin.com/in/jehee-lee-202002) | [DailyStudy](https://publish.obsidian.md/jhlee)
 - Bioinformatics researcher from Seoul, South Korea.
 
 ### Interest
