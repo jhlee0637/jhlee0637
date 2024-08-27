@@ -19,3 +19,4 @@
   - [Probability & Statistics for Machine Learning & Data Science](https://coursera.org/share/2d80e70000d8ca551d9cf23f27721fe8)
 - [MITx: 6.00.2x: Introduction to Computational Thinking and Data Science](https://courses.edx.org/certificates/789e5c1af03e44fd903ba531593029ac)
 - [Havardx: STAT110x: Introduction to Probability ](https://courses.edx.org/certificates/df5ea0ac20b441deba4b7d39ff78288f)
+- [DeepLearning.AI: Supervised Machine Learning: Regression and Classification](https://www.coursera.org/account/accomplishments/verify/JCKVDE3AX1K6)
