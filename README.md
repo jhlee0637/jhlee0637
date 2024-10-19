@@ -3,7 +3,7 @@
 - Bioinformatics researcher from Seoul, South Korea.
 
 ### Interest
-- **"How to adapt Machine Learning algorithm to Bioinformatics tools?"**
+- **"How can the latest CS/ML algorithms be adapted to improve bioinformatics research?"**
 - **scRNA-seq data based Multi-omics**
   - **transcriptomics**
   - **proteomics**
