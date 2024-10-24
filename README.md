@@ -18,7 +18,7 @@
 ### Online Judge Profiles
 |[<img src="https://velog.velcdn.com/images/dev-redo/post/97f0fdfa-e250-4ae8-bf33-af2de95b1eea/1993996598_20210610150326_5364622170.jpg" width='270'></img>](https://programmers.co.kr/)|[<img src='https://d2gd6pc034wcta.cloudfront.net/images/logo@2x.png' width='400'></img>](https://www.acmicpc.net/)|[<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/LeetCode_Logo_black_with_text.svg/250px-LeetCode_Logo_black_with_text.svg.png' width='200'></img>](https://leetcode.com/)|
 |---|---|---|
-|[<img src=https://github.com/jhlee0637/github-programmers-rank/blob/master/lib/result.svg width='520'></img>](https://github.com/jhlee0637/github-programmers-rank)|[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=jhlee2020)](https://solved.ac/jhlee2020)|[![](https://leetcard.jacoblin.cool/jhlee0637?theme=unicorn)](https://leetcode.com/u/jhlee0637/)
+|<img src=https://github.com/jhlee0637/github-programmers-rank/blob/master/lib/result.svg width='520'></img>|[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=jhlee2020)](https://solved.ac/jhlee2020)|[![](https://leetcard.jacoblin.cool/jhlee0637?theme=unicorn)](https://leetcode.com/u/jhlee0637/)
 
 ### _also..._
 [<img src='https://rosalind.info/static/img/logo.png?v=1637535648' width='120'></img>](https://rosalind.info/users/j2)　[<img src=https://www.kaggle.com/static/images/site-logo.svg width='70'></img>](https://www.kaggle.com/lee2021dec17)
