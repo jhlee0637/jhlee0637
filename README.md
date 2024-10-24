@@ -16,22 +16,9 @@
 ---
 
 ### Online Judge Profiles
-**Programmers**
+|Programmers|[<img src='https://d2gd6pc034wcta.cloudfront.net/images/logo@2x.png'></img>](https://www.acmicpc.net/user/jhlee2020)|[<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/LeetCode_Logo_black_with_text.svg/250px-LeetCode_Logo_black_with_text.svg.png'></img>](https://leetcode.com/u/jhlee0637/)|
+|---|---|---|
+|[![](https://github.com/jhlee0637/github-programmers-rank/blob/master/lib/result.svg)](https://github.com/jhlee0637/github-programmers-rank)|[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=jhlee2020)](https://solved.ac/jhlee2020)|[![](https://leetcard.jacoblin.cool/jhlee0637?theme=unicorn)](https://leetcode.com/u/jhlee0637/)
 
-[![](https://github.com/jhlee0637/github-programmers-rank/blob/master/lib/result.svg)](https://github.com/jhlee0637/github-programmers-rank)
-
-**Baekjoon Online Judge**
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=jhlee2020)](https://solved.ac/jhlee2020)
-
-**Leetcode**
-
-![](https://leetcard.jacoblin.cool/jhlee0637?theme=unicorn)
-
-**Rosalind**
-
-[link](https://rosalind.info/users/j2/)
-
-**Kaggle**
-
-[link](https://www.kaggle.com/lee2021dec17)
+### _also..._
+[<img src='https://rosalind.info/static/img/logo.png?v=1637535648' width='120'></img>](https://rosalind.info/users/j2)　[<img src=https://www.kaggle.com/static/images/site-logo.svg width='70'></img>](https://www.kaggle.com/lee2021dec17)
