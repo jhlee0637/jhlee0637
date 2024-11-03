@@ -21,4 +21,4 @@
 |<img src=https://github.com/jhlee0637/github-programmers-rank/blob/master/lib/result.svg width='520'></img>|[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=jhlee2020)](https://solved.ac/jhlee2020)|[![](https://leetcard.jacoblin.cool/jhlee0637?theme=unicorn)](https://leetcode.com/u/jhlee0637/)
 
 ### _also..._
-[<img src='https://rosalind.info/static/img/logo.png?v=1637535648' width='120'></img>](https://rosalind.info/users/j2)　[<img src=https://www.kaggle.com/static/images/site-logo.svg width='70'></img>](https://www.kaggle.com/lee2021dec17)
+[<img src='https://compeau.cbd.cmu.edu/wp-content/uploads/2016/08/rosalindlogo-300x89.jpg' width='100'></img>](https://rosalind.info/users/j2)　[<img src=https://www.kaggle.com/static/images/site-logo.svg width='70'></img>](https://www.kaggle.com/lee2021dec17)
