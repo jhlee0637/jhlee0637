@@ -1,5 +1,5 @@
 ### Hi, I am Lee Je-Hee :)
-[RESUME](https://drive.google.com/file/d/1CS7p7H643Puo4x3rYa8m3cesAn4gLNBI/view?usp=sharing) | [LinkedIn](https://www.linkedin.com/in/jehee-lee-202002) | [Obsidian study](https://publish.obsidian.md/jhlee)
+[RESUME](https://drive.google.com/file/d/1LKcVQ1K98CFT4nwwlb7ejmcpxRpTLyIv/view?usp=sharing) | [LinkedIn](https://www.linkedin.com/in/jehee-lee-202002) | [Obsidian study](https://publish.obsidian.md/jhlee)
 - Bioinformatics researcher from Seoul, South Korea.
   - Experienced with NGS data: WES, GWAS, Amplicon Target Sequencing, ...
 - Interested in, **"How can the latest CS/ML algorithms be adapted to improve bioinformatics research?"**
