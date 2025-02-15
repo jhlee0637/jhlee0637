@@ -6,16 +6,17 @@
 
 ### Course Accomplishment
 
-- [MITx: 6.00.2x: Introduction to Computational Thinking and Data Science](https://courses.edx.org/certificates/789e5c1af03e44fd903ba531593029ac)
-- [Havardx: STAT110x: Introduction to Probability ](https://courses.edx.org/certificates/df5ea0ac20b441deba4b7d39ff78288f)
-- [DeepLearning.AI: Machine Learning](https://coursera.org/share/93c12abcd8c67382d5d5fa2bad2f53ed)
-  - [DeepLearning.AI: Supervised Machine Learning: Regression and Classification](https://www.coursera.org/account/accomplishments/verify/JCKVDE3AX1K6)
-  - [DeepLearning.AI: Advanced Learning Algorithms](https://www.coursera.org/account/accomplishments/verify/XMXVYB4USXWL)
-  - [DeepLearning.AI: Unsupervised Learning, Recommenders, Reinforcement Learning](https://coursera.org/share/32d793aa7d979b2ce47c6809875e9ebd)
-- [DeepLearning.AI: Mathematics for Machine Learning and Data Science](https://coursera.org/share/6d094f57ced10ab14e3f0b30bcc4d741)
+- [Neural Networks and Deep Learning (DeepLearning.AI)](https://www.coursera.org/account/accomplishments/verify/R2WK0FA9MFJY)
+- [Machine Learning (DeepLearning.AI)](https://coursera.org/share/93c12abcd8c67382d5d5fa2bad2f53ed)
+  - [Supervised Machine Learning: Regression and Classification](https://www.coursera.org/account/accomplishments/verify/JCKVDE3AX1K6)
+  - [Advanced Learning Algorithms](https://www.coursera.org/account/accomplishments/verify/XMXVYB4USXWL)
+  - [Unsupervised Learning, Recommenders, Reinforcement Learning](https://coursera.org/share/32d793aa7d979b2ce47c6809875e9ebd)
+- [Mathematics for Machine Learning and Data Science (DeepLearning.AI)](https://coursera.org/share/6d094f57ced10ab14e3f0b30bcc4d741)
   - [Linear Algebra for Machine Learning and Data Science](https://www.coursera.org/account/accomplishments/verify/66DNLHJKUTBB)
   - [Calculus for Machine Learning and Data Science](https://www.coursera.org/account/accomplishments/verify/H4D7SFYLRR6C)
   - [Probability & Statistics for Machine Learning & Data Science](https://coursera.org/share/2d80e70000d8ca551d9cf23f27721fe8)
+- [Introduction to Computational Thinking and Data Science (MITx: 6.00.2x)](https://courses.edx.org/certificates/789e5c1af03e44fd903ba531593029ac)
+- [Introduction to Probability (Havardx: STAT110x)](https://courses.edx.org/certificates/df5ea0ac20b441deba4b7d39ff78288f)
 ---
 
 ### Online Judge Profiles
