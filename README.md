@@ -1,12 +1,20 @@
-### Hi, I am Lee Je-Hee :)
+### Hi, I am Lee Je-Hee
 [RESUME](https://drive.google.com/file/d/1UBlZRu7vQJppDS8_5mekHGyQzBCC8gtF/view?usp=drive_link) | [LinkedIn](https://www.linkedin.com/in/jehee-lee-202002)
-- Bioinformatics researcher from Seoul, South Korea.
+- Previous Bioinformatics researcher from Seoul, South Korea.
   - Experienced with NGS data: WES, GWAS, Amplicon Target Sequencing, ...
+- My goal is to be the **ABC** expert
+  - _Artificial Intelligence_
+  - _Bioinformatics_
+  - _Cloud Computing_
 - Interested in, **"How can the latest CS/ML algorithms be adapted to improve bioinformatics research?"**
 
 ### Course Accomplishment
-
-- [Neural Networks and Deep Learning (DeepLearning.AI)](https://www.coursera.org/account/accomplishments/verify/R2WK0FA9MFJY)
+- Deep Learning (DeepLearning.AI) (in progress)
+  - [Neural Networks and Deep Learning](https://www.coursera.org/account/accomplishments/verify/R2WK0FA9MFJY)
+  - [Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization](https://www.coursera.org/account/accomplishments/verify/P5ZPUCWLHMS4)
+  - [Structuring Machine Learning Projects](https://www.coursera.org/account/accomplishments/records/320LFCOV04QC)
+  - Convolutional Neural Networks
+  - Sequence Models
 - [Machine Learning (DeepLearning.AI)](https://coursera.org/share/93c12abcd8c67382d5d5fa2bad2f53ed)
   - [Supervised Machine Learning: Regression and Classification](https://www.coursera.org/account/accomplishments/verify/JCKVDE3AX1K6)
   - [Advanced Learning Algorithms](https://www.coursera.org/account/accomplishments/verify/XMXVYB4USXWL)
