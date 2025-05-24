@@ -8,7 +8,9 @@
   - _Cloud Computing_
 - Interested in, **"How can the latest CS/ML algorithms be adapted to improve bioinformatics research?"**
 
-### Course Accomplishment
+### Accomplishment
+- AWS Certifications    
+[<img src='https://images.credly.com/size/340x340/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png' width='150'></img>](https://www.credly.com/badges/be2de165-e023-426e-86d8-ba35c5d4ec9e/linked_in_profile)
 - Deep Learning (DeepLearning.AI) (in progress)
   - [Neural Networks and Deep Learning](https://www.coursera.org/account/accomplishments/verify/R2WK0FA9MFJY)
   - [Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization](https://www.coursera.org/account/accomplishments/verify/P5ZPUCWLHMS4)
