@@ -1,6 +1,6 @@
 ### Hi, I am Lee Je-Hee
 [RESUME](https://drive.google.com/file/d/1UBlZRu7vQJppDS8_5mekHGyQzBCC8gtF/view?usp=drive_link) | [LinkedIn](https://www.linkedin.com/in/jehee-lee-202002)
-- Previous Bioinformatics researcher from Seoul, South Korea.
+- Bioinformatician from Seoul, South Korea.
   - Experienced with NGS data: WES, GWAS, Amplicon Target Sequencing, ...
 - My goal is to be the **ABC** expert
   - _Artificial Intelligence_
