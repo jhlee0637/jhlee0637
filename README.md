@@ -20,7 +20,7 @@ Bioinformatician | Nextflow Ambassador of Korea
 - [Neural Networks and Deep Learning](https://www.coursera.org/account/accomplishments/verify/R2WK0FA9MFJY)
 - [Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization](https://www.coursera.org/account/accomplishments/verify/P5ZPUCWLHMS4)
 - [Structuring Machine Learning Projects](https://www.coursera.org/account/accomplishments/records/320LFCOV04QC)
-- Convolutional Neural Networks
+- [Convolutional Neural Networks](https://coursera.org/share/5b2e7872067524566f8830927daa44a1)
 - Sequence Models
 </details>
 
