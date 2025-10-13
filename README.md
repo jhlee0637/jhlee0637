@@ -1,5 +1,5 @@
 ### Hi, I am Je-Hee Lee!
-Bioinformatician | Nextflow Ambassador of Korea     
+Bioinformatician | Nextflow Ambassador for Korea     
 [RESUME](https://drive.google.com/file/d/1UBlZRu7vQJppDS8_5mekHGyQzBCC8gtF/view?usp=drive_link) 
 
 * Experienced & Studied with various data: WES, GWAS, scRNA-seq, Metagenomics, ... 
