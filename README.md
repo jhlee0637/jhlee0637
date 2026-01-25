@@ -50,7 +50,7 @@ Bioinformatician | Nextflow Ambassador for Korea
 ---
 
 ### Online Judge Profiles
-|[<img src="https://theme.zdassets.com/theme_assets/9483888/f7b9b68643e5a9a3bda6dc5a238152b1d467c9f0.png" width='250'></img>](https://programmers.co.kr/)|[<img src='https://d2gd6pc034wcta.cloudfront.net/images/logo@2x.png' width='400'></img>](https://www.acmicpc.net/)|[<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/LeetCode_Logo_black_with_text.svg/250px-LeetCode_Logo_black_with_text.svg.png' width='200'></img>](https://leetcode.com/)|
+|[<img src="https://theme.zdassets.com/theme_assets/9483888/f7b9b68643e5a9a3bda6dc5a238152b1d467c9f0.png" width='250'></img>](https://programmers.co.kr/)|[<img src='https://d2gd6pc034wcta.cloudfront.net/images/logo@2x.png' width='400'></img>](https://www.acmicpc.net/)|[<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/LeetCode_Logo_black_with_text.svg/500px-LeetCode_Logo_black_with_text.svg.png?20200122084501' width='200'></img>](https://leetcode.com/)|
 |---|---|---|
 |<img src=https://github.com/jhlee0637/github-programmers-rank/blob/master/lib/result.svg width='520'></img>|[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=jhlee2020)](https://solved.ac/jhlee2020)|[![](https://leetcard.jacoblin.cool/jhlee0637?theme=unicorn)](https://leetcode.com/u/jhlee0637/)
 
