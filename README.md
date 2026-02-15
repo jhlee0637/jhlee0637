@@ -1,5 +1,5 @@
 # Je-Hee Lee
-*"Advancing Open Science by modernizing bioinformatics with scalable, reproducible cloud algorithms."*
+*"Advancing Open Science by modernizing bioinformatics with scalable, reproducible cloud architecture."*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jhlee0637/)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:jhlee0637@gmail.com)
@@ -13,7 +13,7 @@
   </div>
 </br
 
-I am a **Bioinformatics Workflow Engineer** with a strong focus on building reproducible and scalable data pipelines. As a **Nextflow Ambassador** for Korea, I advocate for cloud-native solutions in genomics.
+I am a **Bioinformatics Engineer** with a strong focus on building reproducible and scalable data pipelines. As a **Nextflow Ambassador** for Korea, I advocate for cloud-native solutions in genomics.
 
 I define my core competency as **ABC**:
 - **A**rtificial Intelligence: Integrating ML/DL algorithms into biological insights.
