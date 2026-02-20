@@ -30,7 +30,7 @@ I define my core competency as **ABC**:
 | :--- | :--- |
 | **Workflow** | Nextflow, Slurm, Snakemake, Docker, Singularity |
 | **Cloud** | AWS (Parallel Cluster, IAM, Lambda) |
-| **Bioinformatics** | GATK, Samtools, Seurat, Scanpy, AlphaFold |
+| **Bioinformatics** | WES, WTS, GWAS, scRNA-seq |
 | **Languages** | Python, Groovy, R, Bash |
 | **Data & ML** | PyTorch, TensorFlow, Pandas, NumPy |
 
