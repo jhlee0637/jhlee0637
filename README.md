@@ -1,7 +1,7 @@
 # Je-Hee Lee
 *"Advancing Open Science by modernizing bioinformatics with scalable, reproducible cloud architecture."*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jhlee0637/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jehee-lee/)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:jhlee0637@gmail.com)
 [![Nextflow Ambassador](https://img.shields.io/badge/Nextflow-Ambassador-2496ED?style=flat-square&logo=nextflow&logoColor=white)](https://www.nextflow.io/our_ambassadors.html#:~:text=Jehee%20Lee)
 [![AWS Certified](https://img.shields.io/badge/AWS-Solutions%20Architect-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)](https://www.credly.com/badges/be2de165-e023-426e-86d8-ba35c5d4ec9e/linked_in_profile)
