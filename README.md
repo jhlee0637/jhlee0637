@@ -13,7 +13,7 @@
   </div>
 </br
 
-I am a **Bioinformatics Engineer** with a strong focus on building reproducible and scalable data pipelines. As a **Nextflow Ambassador** for Korea, I advocate for cloud-native solutions in genomics.
+I am a **Bio-Data Platform Engineer** with a strong focus on building reproducible and scalable data pipelines. As a **Nextflow Ambassador** for Korea, I advocate for cloud-native solutions in genomics.
 
 I define my core competency as **ABC**:
 - **A**rtificial Intelligence: Integrating ML/DL algorithms into biological insights.
