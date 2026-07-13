@@ -13,26 +13,18 @@
   </div>
 </br
 
-I am a **Bio-Data Platform Engineer** with a strong focus on building reproducible and scalable data pipelines. As a **Nextflow Ambassador** for Korea, I advocate for cloud-native solutions in genomics.
+I am a **Bio-Data Platform Engineer** specializing in high-performance computing (HPC) operations, cloud architecture, and pipeline automation. As the **Nextflow Ambassador for Korea**, I advocate for reproducible, open-science workflows and cloud-native solutions in genomics.
 
-I define my core competency as **ABC**:
-- **A**rtificial Intelligence: Integrating ML/DL algorithms into biological insights.
-- **B**ioinformatics: Understanding of genomic data (WES, GWAS, scRNA-seq, Metagenomics).
-- **C**loud Computing: Architecting serverless and high-performance computing environments on AWS.
-
-
-
----
 
 ## Tech Stack & Expertise
 
 | Domain | Technologies & Skills |
 | :--- | :--- |
 | **Workflow** | Nextflow, Slurm, Snakemake, Docker, Singularity |
-| **Cloud** | AWS (Parallel Cluster, IAM, Lambda) |
+| **Cloud** | AWS (ParallelCluster, EC2, S3, Lambda, ALB, Cognito, RDS) |
 | **Bioinformatics** | WES, WTS, GWAS, scRNA-seq |
-| **Languages** | Python, Groovy, R, Bash |
-| **Data & ML** | PyTorch, TensorFlow, Pandas, NumPy |
+| **Languages** | Python, Groovy, Bash |
+| **Data & ML** | PyTorch, Pandas, NumPy |
 
 ---
 
